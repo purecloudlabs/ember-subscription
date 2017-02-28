@@ -1,10 +1,10 @@
 {
   "name": "ember-subscription",
   "description": "Ember event handling that sucks less",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
   "bugs": {
-    "url": "https://github.com/andrejewski/ember-subscription/issues"
+    "url": "https://github.com/MyPureCloud/ember-subscription/issues"
   },
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
@@ -42,7 +42,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "homepage": "https://github.com/andrejewski/ember-subscription#readme",
+  "homepage": "https://github.com/MyPureCloud/ember-subscription#readme",
   "keywords": [
     "ember-addon"
   ],
@@ -55,7 +55,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrejewski/ember-subscription.git"
+    "url": "git+https://github.com/MyPureCloud/ember-subscription.git"
   },
   "scripts": {
     "build": "ember build",
